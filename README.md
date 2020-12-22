@@ -42,8 +42,8 @@ you can find our experiences in two articles (German only):
 
 0. Adapt the Virtual Office configuration.
 
-    * via `.env` file: Copy `<client|server>/.env-example` to `<client|server>/.env` and adapt the content. All entries will be available to the app as environment variables.
-    * set the environment variables manually, i.e. for using it via some deployment plan in a CI server.
+    * via `.env` file: Copy `server/.env-example` to `server/.env` and adapt the content. All entries will be available to the app as environment variables.
+    * set the environment variables manually, i.e. for using it via a deployment plan in a CI server.
 
 0. Configure the Zoom.us webhooks
 
